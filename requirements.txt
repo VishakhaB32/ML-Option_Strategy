@@ -1,0 +1,19 @@
+polars
+pandas
+pyarrow
+fastparquet
+numpy
+matplotlib
+tqdm
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imblanced-learn
+# pandas
+# polars[all]
+# numpy
+# matplotlib
+# scikit-learn
+# lightgbm
+# xgboost   # optional
